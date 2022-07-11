@@ -23,8 +23,7 @@
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: 
-  - <a target="_blank"href="https://www.linkedin.com/in/derckprinzhorn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+- 📫 How to reach me: <a target="_blank"href="https://www.linkedin.com/in/derckprinzhorn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <hr>
@@ -55,13 +54,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-<h2  align="center">📫 Reach me on</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/derckprinzhorn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
