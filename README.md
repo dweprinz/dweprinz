@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
 <a href="https://www.linkedin.com/in/derckprinzhorn/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
