@@ -10,7 +10,7 @@
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp> A highly resourceful software engineer specialized in Artificial Intelligence with one year of software engineering and team lead experience, possessing advanced knowledge of across the field of Artificial Intelligence.
+  <samp> A highly resourceful software engineer specialized in Artificial Intelligence with one year of software engineering and team lead experience, possessing advanced knowledge of Artificial Intelligence.
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=dweprinz" alt="https://github.com/dweprinz" />
