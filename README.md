@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 <!---Banner-->
 <!-- ![banner](https://github.com/LeerLevels/autograde/blob/main/images/leerlevels-banner.jpg) -->
-![Header](./github-header-image.png)
+
 
 <!-- <a href="https://www.linkedin.com/in/derckprinzhorn/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Derck Prinzhorn | LinkedIn" width="21px"/></a> -->
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="header" alt="header"/>
+  <img src="github-header-image.png" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
