@@ -1,8 +1,6 @@
 <!--
 **dweprinz/dweprinz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<h1 align="center"> 👋 </h1>
 <div align="center">
   <img src="github-header-image.png" alt="header"/>
 </div>
