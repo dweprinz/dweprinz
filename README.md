@@ -23,7 +23,7 @@
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me:<a href="https://www.linkedin.com/in/derckprinzhorn/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/derckprinzhorn/">LinkedIn</a>
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 <hr>
