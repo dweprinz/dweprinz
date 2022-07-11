@@ -6,7 +6,7 @@
 <div align="center">
   <img src="github-header-image.png" alt="header"/>
 </div>
-<p align="center"> (Open for Hiring) </p>
+<!-- <p align="center"> (Open for Hiring) </p> -->
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
