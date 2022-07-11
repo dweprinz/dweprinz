@@ -18,7 +18,7 @@
 
 <hr>
 
-- 🔭 I’m currently working on Data Science at ![LeerLevels](https://www.leerlevels.nl/)
+- 🔭 I’m currently working on Data Science at <a href="https://www.leerlevels.nl/">LeerLevels</a>
 - 🌱 I’m currently studying Bachelor Artificial Intelligence
 - 👯 I’m looking to collaborate on Machine Learning projects
 <!-- - 🤔 I’m looking for help with ... -->
